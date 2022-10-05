@@ -2,4 +2,4 @@ This code and EXE file take two user inputs as ASCII strings, converts it to a d
 
 MAIN POINTERS:
 
-The most important aspect of this program is the two conversions that happen, which will be needed for any program that takes input ad does math
+The most important aspect of this program is the two conversions that happen, which will be needed for any program that takes input and does math
